@@ -2,7 +2,7 @@
 
 return [
     'plugin' => [
-        'name' => '插件（Builder）',
+        'name' => '插件构建器',
         'description' => '提供用于构建October插件的可视化工具。',
         'add' => '创建插件',
         'no_records' => '找不到插件',
@@ -307,10 +307,10 @@ return [
         'control_textarea_description' => '高度可控的多行文本框',
         'control_dropdown' => '下拉列表',
         'control_dropdown_description' => '带有静态或动态选项的下拉列表',
-        'control_balloon-selector' => 'Balloon Selector',
-        'control_balloon-selector_description' => 'List where only one item can be selected at a time with static or dynamic options',
+        'control_balloon-selector' => '气球选择器',
+        'control_balloon-selector_description' => '从一个静态或动态选项列表中选择一个项目',
         'control_unknown' => '未知的控制类型: :type',
-        'control_repeater' => '中继器',
+        'control_repeater' => '重复列表',
         'control_repeater_description' => '输出一组重复的表单控件',
         'control_number' => '数量',
         'control_number_description' => '只接受数字的单行文本框',
