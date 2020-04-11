@@ -112,7 +112,7 @@ return [
         'property_comment_title' => '注释',
         'property_comment_above_title' => '注释在上面',
         'property_default_title' => '默认值',
-        'property_checked_default_title' => '检查默认',
+        'property_checked_default_title' => '默认选中',
         'property_css_class_title' => 'CSS class',
         'property_css_class_description' => '	将CSS类分配给字段容器',
         'property_disabled_title' => '禁用',
